@@ -1,0 +1,4 @@
+;;;; -*- mode: lisp -*-
+
+(asdf:make :stumpo)
+(stumpwm::pravalorizu)
